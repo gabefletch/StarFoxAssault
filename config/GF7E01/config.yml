@@ -1,7 +1,7 @@
 # See config.example.yml for documentation.
 object_base: orig/GF7E01
 object: sys/main.dol
-hash: 0123456789abcdef0123456789abcdef01234567
+hash: ae7201e7acd5a29acc807d7668a856392fd37ff9
 symbols: config/GF7E01/symbols.txt
 splits: config/GF7E01/splits.txt
 # Change this to match the linker version.
