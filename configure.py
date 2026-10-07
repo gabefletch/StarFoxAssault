@@ -29,7 +29,7 @@ from tools.project import (
 # Game versions
 DEFAULT_VERSION = 0
 VERSIONS = [
-    "GAMEID",  # 0
+    "GF7E01",  # 0
 ]
 
 parser = argparse.ArgumentParser()
