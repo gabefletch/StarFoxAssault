@@ -49,7 +49,7 @@ Building
   git clone https://github.com/my/repo.git
   ```
 
-- Copy your game's disc image to `orig/GAMEID`.
+- Copy your game's disc image to `orig/GF7E01`.
   - Supported formats: ISO (GCM), RVZ, WIA, WBFS, CISO, NFS, GCZ, TGC
   - After the initial build, the disc image can be deleted to save space.
 
@@ -59,7 +59,7 @@ Building
   python configure.py
   ```
 
-  To use a version other than `GAMEID` (USA), specify it with `--version`.
+  To use a version other than `GF7E01` (USA), specify it with `--version`.
 
 - Build:
 
