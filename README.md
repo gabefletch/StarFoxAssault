@@ -8,6 +8,8 @@ Supported versions:
 
 - `GF7E01` (USA)
 
+Adding support for JPN and PAL is planned later.
+
 Dependencies
 ============
 
