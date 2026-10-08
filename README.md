@@ -1,6 +1,6 @@
 # Star Fox Assault  
 
-A work-in-progress decompilation of the NTSC-U release of Star Fox Assault, using [dtk-template](https://github.com/encounter/dtk-template) as a base.
+A work-in-progress decompilation of the NTSC-U release of Star Fox Assault, using [encounter/dtk-template](https://github.com/encounter/dtk-template) as a base.
 
 This repository does **not** contain any game assets or assembly whatsoever. An existing copy of the game is required.
 
